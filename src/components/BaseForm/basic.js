@@ -56,3 +56,4 @@ export let a = 1;
 export let b = 1;
 export let c = 1;
 export let d = 1;
+export let e = 1;
