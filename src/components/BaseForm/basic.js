@@ -52,3 +52,5 @@ export const basic = {
     }
   }
 };
+
+export let a = 1;
